@@ -14,7 +14,7 @@ copying from the address box at the top. If you do this, then you need to manual
 
 Example: if i have EnglishEssay.txt on my desktop then I would enter:
 
-C:\Users\MyUser\Desktop\Roms\EnglishEssay.txt
+C:\Users\MyUser\Desktop\EnglishEssay.txt
 
 Then let the magic happen.
 
