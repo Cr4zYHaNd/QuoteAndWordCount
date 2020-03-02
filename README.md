@@ -19,3 +19,8 @@ C:\Users\MyUser\Desktop\EnglishEssay.txt
 
 Then let the magic happen.
 
+Any issues? Let me know:
+E-mail: mewtwodan8@gmail.com
+Discord: Cr4zYHaNd#6208
+
+or pull up an issue here on GitHub.
