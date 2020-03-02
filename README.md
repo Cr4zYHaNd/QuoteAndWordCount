@@ -3,7 +3,8 @@ Count the words with, without and in quotation marks for your essays.
 
 Hi, this is my word count tool for counting words and excluding quotes, could be useful for english essays and the like.
 
-changelog
+Changelog
+
 v1.0
 
 Currently only works for text files. 
