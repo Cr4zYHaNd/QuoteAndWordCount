@@ -7,7 +7,8 @@ Changelog
 
 v1.1
 
-Fixed a bug where the last word in a quote would be included in the general word count and not the quote count
+Fixed a bug where the last word in a quote would be included in the general word count and not the quote count, see v1.0 
+for usage instructions
 
 v1.0
 
