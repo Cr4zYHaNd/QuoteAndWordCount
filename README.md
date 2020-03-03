@@ -5,6 +5,10 @@ Hi, this is my word count tool for counting words and excluding quotes, could be
 
 Changelog
 
+v1.1
+
+Fixed a bug where the last word in a quote would be included in the general word count and not the quote count
+
 v1.0
 
 Currently only works for text files. 
